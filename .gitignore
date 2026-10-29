@@ -1,0 +1,7 @@
+printshop.db
+printshop.db-journal
+*.db-wal
+*.db-shm
+tools/
+.DS_Store
+Thumbs.db
